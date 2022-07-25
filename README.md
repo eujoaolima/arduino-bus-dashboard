@@ -1,3 +1,3 @@
 # arduino-bus-dashboard
 
-Only bus dashboard replica.
+Just bus dashboard replica.
